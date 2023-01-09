@@ -1,0 +1,86 @@
+{
+    "eurasia_header": [
+        {
+            "yandex": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "google": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "mailru": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "rambler": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "ask": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "yahoo": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "cpc": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "email": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "remarketing": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "direct": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>"
+        }
+    ],
+    "eurasia_footer": [
+        {
+            "yandex": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "google": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "mailru": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "rambler": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "ask": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "yahoo": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "cpc": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "email": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "remarketing": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "direct": "<i class=\"icon icon-phone\"></i><a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>"
+        }
+    ],
+    "eurasia_contacts": [
+        {
+            "yandex": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "google": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "mailru": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "rambler": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "ask": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "yahoo": "<a style=\"color: #50b717;\" href=\"tel:+3726028443\">+372 602 8443</a>",
+            "cpc": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "email": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "remarketing": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>",
+            "direct": "<a style=\"color: #50b717;\" href=\"tel:+3726589229\">+372 658 9229</a>"
+        }
+    ],
+    "nbr_contacts": [
+        {
+            "yandex": "<a href=\"tel:+78124099879\" class=\"black\" itemprop=\"telephone\">+7 (812) 409-98-79</a>",
+            "google": "<a href=\"tel:+78124099879\" class=\"black\" itemprop=\"telephone\">+7 (812) 409-98-79</a>",
+            "mailru": "<a href=\"tel:+78124099879\" class=\"black\" itemprop=\"telephone\">+7 (812) 409-98-79</a>",
+            "rambler": "<a href=\"tel:+78124099879\" class=\"black\" itemprop=\"telephone\">+7 (812) 409-98-79</a>",
+            "ask": "<a href=\"tel:+78124099879\" class=\"black\" itemprop=\"telephone\">+7 (812) 409-98-79</a>",
+            "yahoo": "<a href=\"tel:+78124099879\" class=\"black\" itemprop=\"telephone\">+7 (812) 409-98-79</a>",
+            "cpc": "<a href=\"tel:+78122004404\" class=\"black\" itemprop=\"telephone\">+7 (812) 200-44-04</a>",
+            "email": "<a href=\"tel:+78122004404\" class=\"black\" itemprop=\"telephone\">+7 (812) 200-44-04</a>",
+            "remarketing": "<a href=\"tel:+78122004404\" class=\"black\" itemprop=\"telephone\">+7 (812) 200-44-04</a>",
+            "direct": "<a href=\"tel:+78122004404\" class=\"black\" itemprop=\"telephone\">+7 (812) 200-44-04</a>"
+        }
+    ],
+    "nbr_slider_mobile": [
+        {
+            "yandex": "<a href=\"tel:+78124099879\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 409-98-79</span></a>",
+            "google": "<a href=\"tel:+78124099879\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 409-98-79</span></a>",
+            "mailru": "<a href=\"tel:+78124099879\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 409-98-79</span></a>",
+            "rambler": "<a href=\"tel:+78124099879\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 409-98-79</span></a>",
+            "ask": "<a href=\"tel:+78124099879\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 409-98-79</span></a>",
+            "yahoo": "<a href=\"tel:+78124099879\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 409-98-79</span></a>",
+            "cpc": "<a href=\"tel:+78122004404\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 200-44-04</span></a>",
+            "email": "<a href=\"tel:+78122004404\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 200-44-04</span></a>",
+            "remarketing": "<a href=\"tel:+78122004404\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 200-44-04</span></a>",
+            "direct": "<a href=\"tel:+78122004404\" class=\"dark-color\"><i class=\"svg svg-phone\"></i><span>+7 (812) 200-44-04</span></a>"
+        }
+    ],
+    "nbr_header_mobile": [
+        {
+            "yandex": "<a href=\"tel:+78124099879\"</a>",
+            "google": "<a href=\"tel:+78124099879\"</a>",
+            "mailru": "<a href=\"tel:+78124099879\"</a>",
+            "rambler": "<a href=\"tel:+78124099879\"</a>",
+            "ask": "<a href=\"tel:+78124099879\"</a>",
+            "yahoo": "<a href=\"tel:+78124099879\"</a>",
+            "cpc": "<a href=\"tel:+78122004404\"</a>",
+            "email": "<a href=\"tel:+78122004404\"</a>",
+            "remarketing": "<a href=\"tel:+78122004404\"</a>",
+            "direct": "<a href=\"tel:+78122004404\"</a>"
+        }
+    ]
+}
